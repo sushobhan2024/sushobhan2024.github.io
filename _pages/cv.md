@@ -13,52 +13,24 @@ Education
 ======
 * Ph.D in Information Science, Drexel University, 2029 (expected)
 * B.A. in Mathematics, CUNY Baruch College, 2023
-<!--
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2024 - Present: Research Assistant
+  * Drexel University College of Computing & Informatics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2022 - May 2023: Research Assistant
+  * CUNY Brooklyn College
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jun 2022 - Dec 2022: Teaching Assistant
+  * CUNY City College
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jun 2022: Data Science Research Fellow
+  * Microsoft Research NYC
+
+* Sep 2021 - May 2022: Data Science Fellow
+  * CUNY Tech Prep
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
+
