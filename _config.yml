@@ -27,7 +27,6 @@ author:
   bio              : "Information Science PhD student"
   location         : "Philadelphia, PA, USA"
   employer         : "Drexel University"
-  uri              : "https://drexel.edu"
   email            : "sp3886@drexel.edu"
 
   # Academic websites
@@ -42,7 +41,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  goodreads        : "Sushobhan"
+  goodreads        : # Username
   linkedin         : "sparajuli"
   mastodon         : # URL
   medium           : # URL
