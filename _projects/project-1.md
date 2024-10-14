@@ -1,6 +1,6 @@
 ---
 title: "Stock Portfolio Optimizer"
-excerpt: "Short description of project item number 1<br/><img src='/images/project-1.png'>"
+excerpt: "An application to optimize your stock portfolio<br/><img src='/images/project-1.png'>"
 collection: project
 ---
 
