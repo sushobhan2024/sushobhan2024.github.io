@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Sushobhan Parajuli"
 title_separator          : "-"
 name                     : &name "Sushobhan Parajuli"
-description              : &description "personal description"
+description              : &description "Personal Website"
 url                      : https://sushobhan2024.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sushobhan2024/sushobhan2024.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   name             : "Sushobhan Parajuli" 
   pronouns         : # "he/his/him"
   bio              : "Information Science PhD student"
-  location         : "Philadelphia, PA, USA"
+  location         : "Philadelphia, PA, US"
   employer         : "Drexel University"
   email            : "sp3886@drexel.edu"
 
@@ -239,10 +239,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
