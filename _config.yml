@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Sushobhan Parajuli"
 description              : &description "personal description"
 url                      : https://sushobhan2024.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sushobhan Parajuli"
-  pronouns         : "he/him"  
+  name             : "Sushobhan Parajuli" 
+  pronouns         : # "he/his/him"
   bio              : "Information Science PhD student"
   location         : "Philadelphia, PA, USA"
   employer         : "Drexel University"
