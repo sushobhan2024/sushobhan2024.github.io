@@ -1,5 +1,5 @@
 ---
-title: "Project item number 1"
+title: "Stock Portfolio Optimizer"
 excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
 collection: project
 ---
