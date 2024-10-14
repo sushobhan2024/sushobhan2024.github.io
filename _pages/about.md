@@ -12,6 +12,6 @@ I am a PhD student in Information Science at [Drexel University](https://drexel.
 
 📰 News
 ======
-- **October 2024**: Joined the INERTIA Laboratory and started working on the POPROX project.
-- **September 2024**: Started my PhD in Information Science at Drexel University.
+* **October 2024**: Joined the INERTIA Laboratory and started working on the POPROX project.
+* **September 2024**: Started my PhD in Information Science at Drexel University.
 
