@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "👋🏼"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi! I am Sushobhan Parajuli, a PhD student in Information Science at [Drexel University](https://drexel.edu), working with [Dr. Michael D. Ekstrand](https://md.ekstrandom.net) in the [INERTIA Laboratory](https://inertial.science). I am currently working with the team at [POPROX](https://poprox.ai). I completed my undergraduate degree in mathematics from the [CUNY Baruch College](https://www.baruch.cuny.edu) in 2023.
+I am Sushobhan Parajuli, a PhD student in Information Science at [Drexel University](https://drexel.edu), working with [Dr. Michael D. Ekstrand](https://md.ekstrandom.net) in the [INERTIA Laboratory](https://inertial.science). I am currently working with the team at [POPROX](https://poprox.ai). I completed my undergraduate degree in mathematics from the [CUNY Baruch College](https://www.baruch.cuny.edu) in 2023.
 
 News
 ======
