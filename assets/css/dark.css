@@ -1,0 +1,13 @@
+body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Add specific elements that need styling in dark mode */
+.dark-theme a {
+    color: #bb86fc;
+}
+
+.dark-theme footer {
+    background-color: #333;
+}
