@@ -7,5 +7,5 @@ excerpt: ''
 date: 2025-05-11
 venue: 'FairUMAP'
 paperurl: 'https://doi.org/10.48550/arXiv.2505.04518'
-authors: 'Samira Vaez Barenji, Sushobhan Parajuli, and Michael D. Ekstrand.'
+citation: ''
 ---
