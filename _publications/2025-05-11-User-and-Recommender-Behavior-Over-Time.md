@@ -7,5 +7,5 @@ excerpt: ''
 date: 2025-05-11
 venue: 'FairUMAP'
 paperurl: 'https://doi.org/10.48550/arXiv.2505.04518'
-citation: 'Barenji, Samira Vaez, Sushobhan Parajuli, and Michael D. Ekstrand. "User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation."(2025).'
+authors: 'Samira Vaez Barenji, Sushobhan Parajuli, and Michael D. Ekstrand.'
 ---
