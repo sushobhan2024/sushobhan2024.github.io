@@ -12,6 +12,7 @@ I am a PhD student in Information Science at [Drexel University](https://drexel.
 
 📰 News
 ======
-* **October 2024**: Joined the INERTIA Laboratory and started working on the POPROX project.
-* **September 2024**: Started my PhD in Information Science at Drexel University.
+* **April 2025**: Our paper <b><i>User and Recommender Behavior Over Time</i></b> is accepted to the <b>FairUMAP Workshop</b> at <b>ACM UMAP 2025!</b>
+* **October 2024**: Joined the <b>INERTIA Laboratory</b> and started working on the <b>POPROX</b> project.
+* **September 2024**: Started my <b>PhD in Information Science</b> at <b>Drexel University</b>.
 
