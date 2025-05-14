@@ -1,6 +1,6 @@
 ---
 title: "User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation"
-collection: publications
+collection: ''
 category: ''
 permalink: /publication/2025-05-11-User-and-Recommender-Behavior-Over-Time
 excerpt: ''
