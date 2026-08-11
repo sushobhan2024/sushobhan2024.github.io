@@ -12,6 +12,7 @@ I am a PhD student in Information Science at [Drexel University](https://drexel.
 
 📰 News
 ======
+* **August 2026**: Our paper <b><i>Book Readership During Movie Releases: An Exploratory Analysis</i></b> is accepted to the <b>RecTemp (Temporal Reasoning in Recommender Systems) Workshop</b> at <b>ACM RecSys 2026!</b>
 * **July 2026**
   * Our full paper <b><i>On the Convergent Validity of Offline Evaluation Designs for Recommender Systems</i></b> (my first as first author) is accepted to the <b>Main Track</b> at <b>ACM RecSys 2026!</b>
   * Appointed to the <b>Program Committee</b> for ACM RecSys 2026 Research & Practice Notes and Demos tracks.
