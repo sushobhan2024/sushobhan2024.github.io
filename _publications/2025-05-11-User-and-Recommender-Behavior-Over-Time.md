@@ -12,4 +12,4 @@ citation: 'Sushobhan Parajuli, Vittoria Vineis, Samira Vaez Barenji, and Michael
 
 - [Paper (arXiv)](https://arxiv.org/abs/2608.29019)
 - [Slides](https://github.com/sushobhan2024/sushobhan2024.github.io/blob/master/files/RecTemp2026-Movie-Book.pptx)
-- [Code](https://zenodo.org/records/22938341)
+- [Code (Zenodo)](https://zenodo.org/records/22938341)
