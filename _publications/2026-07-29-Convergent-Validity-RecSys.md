@@ -11,5 +11,5 @@ citation: 'Sushobhan Parajuli, Samira Vaez Barenji, and Michael D. Ekstrand. 202
 
 - [Paper (ACM Digital Library)](https://doi.org/10.1145/3773078.3831818)
 - [Preprint (arXiv)](https://doi.org/10.48550/arXiv.2607.25097)
-- [Slides](https://github.com/sushobhan2024/sushobhan2024.github.io/blob/master/files/557_Parajuli_On%20the%20Convergent%20Validity%20of%20Offline%20Evaluation%20Designs%20for%20Recommender%20Systems.pptx)
+- [Slides](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fsushobhan2024.github.io%2Ffiles%2F557_Parajuli_On%2520the%2520Convergent%2520Validity%2520of%2520Offline%2520Evaluation%2520Designs%2520for%2520Recommender%2520Systems.pptx)
 - [Code (Zenodo)](https://zenodo.org/records/22813645)
